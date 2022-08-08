@@ -1,0 +1,2 @@
+# IDCAR_OCR
+Python个人身份证信息正面提取并存放到EXCEL表格中，仅个人Python代码学习存档
