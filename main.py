@@ -1,4 +1,9 @@
-
+#IPTV直播源地址加解密
+#开源地址：https://github.com/Cyril0563/IDCAR_OCR
+#作者：Cyril0563
+#由CSDN博客：https://blog.csdn.net/Alearn_/article/details/108587572
+#增加性别、民族、出生、住址、修改而来
+#时间：2022-08-08
 
 
 
